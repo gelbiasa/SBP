@@ -1,6 +1,6 @@
 # =============================================================================================================================================================================================
-# INFORMASI:
-
+#                                                                                    INFORMASI:
+# =============================================================================================================================================================================================
 # Sebelum melakukan Running saya mendownload tabulate terlebih dahulu  agar dapat melakukan running dengan tampilan tabel
 # Hal yang perlu dilakukan, jika menggunakan windows buka Command Prompt atau PowerShell, sedangkan jika menggunakan MacOS atau linux buka terminal.
 # Kemudian jalankan perintah "pip install tabulate"
